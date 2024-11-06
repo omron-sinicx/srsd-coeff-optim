@@ -1,0 +1,3 @@
+pytest==7.4.4
+matplotlib==3.9.2
+seaborn==0.13.2

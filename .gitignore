@@ -1,0 +1,16 @@
+# venv
+env/
+
+# cache
+__pycache__/
+.mypy_cache/
+
+# vscode workspace
+sce.code-workspace
+
+# datasets
+expt/data/
+
+# if you install srsd-coeff-estim with pip install ., the following files are created
+build/
+srsd_coeff_optim.egg-info
