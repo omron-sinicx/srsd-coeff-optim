@@ -101,4 +101,13 @@ assert coeff_opt[2] == 3.0  # c2
 ```
 
 ## Citation
-TODO
+```
+@inproceedings{
+    negishi2024twostage,
+    title={Two-Stage Coefficient Estimation in Symbolic Regression for Scientific Discovery},
+    author={Negishi, Masahiro and Matsubara, Yoshitomo and Chiba, Naoya and Igarashi, Ryo and Ushiku, Yoshitaka},
+    booktitle={Machine Learning and the Physical Sciences Workshop @ NeurIPS 2024},
+    year={2024},
+    url={https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_11.pdf}
+}
+```
