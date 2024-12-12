@@ -1,5 +1,5 @@
 # Two-Stage Coefficient Estimation in Symbolic Regression for Scientific Discovery
-This repository contains the official implementation of ["Two-Stage Coefficient Estimation in Symbolic Regression for Scientific Discovery"](https://openreview.net/forum?id=gIscWmLoYf) accepted at the Machine Learning and the Physical Sciences Workshop @ NeurIPS 2024.
+This repository contains the official implementation of ["Two-Stage Coefficient Estimation in Symbolic Regression for Scientific Discovery"](https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_11.pdf) accepted at the Machine Learning and the Physical Sciences Workshop @ NeurIPS 2024.
 
 ## Setup
 ### To reproduce experiments in the workshop paper
